@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 noi dung 2
 sửa lỗi txt 2
+=======
+noi dung 2
+>>>>>>> alpha
